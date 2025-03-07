@@ -1,6 +1,12 @@
+Here's your updated version with the documentation link added:  
+
+---
+
 ## 🏋️‍♂️ Fit-Flex-NM  
 
 **Fit-Flex-NM** is a fitness-focused web application designed to help users track workouts, plan routines, and stay motivated on their fitness journey.  
+
+📖 **[Read Documentation](https://docs.google.com/document/d/1jXQrPqWlv1mVKW52-EIKjEueNiFmsjWkUCg84VTAbEY/edit?usp=sharing)**  
 
 ---
 
@@ -50,4 +56,4 @@ This project is **open-source** and available under the **MIT License**.
 
 ---
 
-Would you like me to add installation steps for **Docker**, **CI/CD**, or any **backend setup**? 🚀
+Would you like to add **Docker setup**, **backend setup**, or **CI/CD instructions**? 🚀
