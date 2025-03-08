@@ -1,5 +1,3 @@
-Here’s the updated `README.md` with the **Team Members** section placed above the **Features**:
-
 ---
 
 ## 🏋️‍♂️ Fit-Flex-NM  
