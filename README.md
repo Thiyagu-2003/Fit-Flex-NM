@@ -1,5 +1,3 @@
----
-
 ## 🏋️‍♂️ Fit-Flex-NM  
 
 **Fit-Flex-NM** is a fitness-focused web application designed to help users track workouts, plan routines, and stay motivated on their fitness journey.  
