@@ -6,7 +6,7 @@ Here's your updated version with the documentation link added:
 
 **Fit-Flex-NM** is a fitness-focused web application designed to help users track workouts, plan routines, and stay motivated on their fitness journey.  
 
-📖 **[Read Documentation](https://drive.google.com/drive/folders/14gm_8Ix23YSZyexwBKGCXPolIyUGEChy?usp=drive_link)**  
+📖 **[Read Documentation](https://drive.google.com/drive/folders/14gm_8Ix23YSZyexwBKGCXPolIyUGEChy?usp=sharing)**  
 
 ---
 
