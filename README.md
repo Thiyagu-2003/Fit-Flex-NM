@@ -1,4 +1,4 @@
-Here's your updated version with the documentation link added:  
+Here’s the updated `README.md` with the **Team Members** section placed above the **Features**:
 
 ---
 
@@ -8,9 +8,21 @@ Here's your updated version with the documentation link added:
 
 📖 **[NM Documentation](https://drive.google.com/drive/folders/14gm_8Ix23YSZyexwBKGCXPolIyUGEChy?usp=sharing)**  
 
-📖 **[My own  Documentation](https://docs.google.com/document/d/1jXQrPqWlv1mVKW52-EIKjEueNiFmsjWkUCg84VTAbEY/edit?usp=sharing)** 
+📖 **[My own Documentation](https://docs.google.com/document/d/1jXQrPqWlv1mVKW52-EIKjEueNiFmsjWkUCg84VTAbEY/edit?usp=sharing)**  
 
- 🎥 **[My own Demo Video](https://drive.google.com/file/d/1VVAgINi4_nndSV5dX4ht13tQmHvS26Ta/view?usp=sharing)** 
+🎥 **[My own Demo Video](https://drive.google.com/file/d/1VVAgINi4_nndSV5dX4ht13tQmHvS26Ta/view?usp=sharing)**  
+
+---
+
+### 👥 Team Members  
+- **S Thiyagu**  
+  Email: [sthiyagu466@gmail.com](mailto:sthiyagu466@gmail.com)  
+- **R Guru Deva**  
+  Email: [devrathinam@gmail.com](mailto:devrathinam@gmail.com)  
+- **J Rohan**  
+  Email: [rohithrohan478@gmail.com](mailto:rohithrohan478@gmail.com)  
+- **V Surendra Babu**  
+  Email: [surendar.v0305@gmail.com](mailto:surendar.v0305@gmail.com)  
 
 ---
 
@@ -59,5 +71,3 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 This project is **open-source** and available under the **MIT License**.  
 
 ---
-
-Would you like to add **Docker setup**, **backend setup**, or **CI/CD instructions**? 🚀
